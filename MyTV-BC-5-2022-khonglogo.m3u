@@ -1,0 +1,175 @@
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
+#EXTINF:-1 tvg-id="vtv1hd" tvg-name="vtv1hd" tvg-chno="1",VTV1 HD
+http://192.168.1.1:8088/rtp/232.84.1.117:10254
+#EXTINF:-1 tvg-id="vtv2hd" tvg-name="VTV2 HD" tvg-chno="2",VTV2 HD
+http://192.168.1.1:8088/rtp/232.84.2.31:10594
+#EXTINF:-1 tvg-id="vtv3hd" tvg-name="vtv3hd" tvg-chno="3",VTV3 HD
+http://192.168.1.1:8088/rtp/232.84.1.118:10260
+#EXTINF:-1 tvg-id="vtv4hd" tvg-name="vtv4hd" tvg-chno="4",VTV4 HD
+http://192.168.1.1:8088/rtp/232.84.3.106:10600
+#EXTINF:-1 tvg-id="vtv5hd" tvg-name="vtv5hd" tvg-chno="5",VTV5 HD
+http://192.168.1.1:8088/rtp/232.84.2.33:10606
+#EXTINF:-1 tvg-id="vtv6hd" tvg-name="vtv6hd" tvg-chno="6",VTV6 HD
+http://192.168.1.1:8088/rtp/232.84.1.119:10266
+#EXTINF:-1 tvg-id="vtv7hd" tvg-name="vtv7hd" tvg-chno="7",VTV7 HD
+http://192.168.1.1:8088/rtp/232.84.2.202:10996
+#EXTINF:-1 tvg-id="vtv8hd" tvg-name="vtv8hd" tvg-chno="8",VTV8 HD
+http://192.168.1.1:8088/rtp/232.84.3.104:10612
+#EXTINF:-1 tvg-id="vtv9hd" tvg-name="vtv9hd" tvg-chno="9",VTV9 HD
+http://192.168.1.1:8088/rtp/232.84.2.35:10618
+#EXTINF:-1 tvg-id="kaction" tvg-name="K+Action" tvg-logo="https://imgur.com/faJYAfY.png" group-title="K+",K+ ACTION HD
+http://192.168.1.1:2401/rtp/232.84.1.123:10320
+#EXTINF:-1 tvg-id="ksport1hd" tvg-name="K+Sport1 HD" tvg-logo="https://imgur.com/YrA0U7L.png" group-title="K+",K+ SPORTS1 HD
+http://192.168.1.1:2401/rtp/232.84.1.125:10326
+#EXTINF:-1 tvg-id="ksport2hd" tvg-name="K+Sport2 HD" tvg-logo="https://imgur.com/ReSrquY.png" group-title="K+",K+ SPORTS2 HD
+http://192.168.1.1:2401/rtp/232.84.1.176:10374
+#EXTINF:-1 tvg-id="kcinehd" tvg-name="K+Cine HD" tvg-logo="https://imgur.com/LMknH43.png" group-title="K+",K+ CINE
+http://192.168.1.1:2401/rtp/232.84.1.122:10314
+#EXTINF:-1 tvg-id="htv1" tvg-name="HTV1" tvg-chno="10",HTV1
+http://192.168.1.1:8088/rtp/232.84.1.35:8184
+#EXTINF:-1 tvg-id="htv2hd" tvg-name="HTV2HD" tvg-chno="11",HTV2 HD
+http://192.168.1.1:8088/rtp/232.84.2.182:9306
+#EXTINF:-1 tvg-id="htv3" tvg-name="HTV3" tvg-chno="12",HTV3
+http://192.168.1.1:8088/rtp/232.84.1.104:8598
+#EXTINF:-1 tvg-id="htvkey" tvg-name="HTV key" tvg-chno="13",HTV4
+http://192.168.1.1:8088/rtp/232.84.1.25:8124
+#EXTINF:-1 tvg-id="htv7hd" tvg-name="HTV7 HD" tvg-chno="14",HTV7 HD
+http://192.168.1.1:8088/rtp/232.84.1.223:9312
+#EXTINF:-1 tvg-id="htv9hd" tvg-name="HTV9 HD" tvg-chno="15",HTV9 HD
+http://192.168.1.1:8088/rtp/232.84.1.224:9318
+#EXTINF:-1 tvg-id="htvthethaohd" tvg-name="HTV Thể Thao HD" tvg-chno="16",HTV Thể Thao HD
+http://192.168.1.1:8088/rtp/232.84.1.24:8118
+#EXTINF:-1 tvg-id="vtvcab1hd" tvg-name="vtvcab1hd" tvg-chno="17",VTVCab1 HD
+http://192.168.1.1:8088/rtp/232.84.1.143:8832
+#EXTINF:-1 tvg-id="VTVcab2hd" tvg-name="ON Phim Việt" tvg-chno="18",ON Phim Việt
+http://192.168.1.1:8088/rtp/232.84.1.168:8982
+#EXTINF:-1 tvg-id="vtvcab4hd" tvg-name="VTVCab4 HD" tvg-chno="19",VTVCab4 HD
+http://192.168.1.1:8088/rtp/232.84.2.190:10924
+#EXTINF:-1 tvg-id="vtvcab5hd" tvg-name="VTVCab5 HD - E Channel" tvg-chno="20",VTVCab5 HD - E Channel
+http://192.168.1.1:8088/rtp/232.84.1.193:9132
+#EXTINF:-1 tvg-id="vtvcab6hd" tvg-name="ON Sports+" tvg-chno="21",ON Sports+
+http://192.168.1.1:8088/rtp/232.84.1.220:9294
+#EXTINF:-1 tvg-id="vtvcab7hd" tvg-name="VTVCab7 HD" tvg-chno="22",VTVCab7 HD
+http://192.168.1.1:8088/rtp/232.84.1.205:9204
+#EXTINF:-1 tvg-id="vtvcab8hd" tvg-name="VTVCab8 HD - BiBi" tvg-chno="23",VTVCab8 HD - BiBi
+http://192.168.1.1:8088/rtp/232.84.1.206:9210
+#EXTINF:-1 tvg-id="vtvcab9hd" tvg-name="VTVCab9 HD - Info TV" tvg-chno="24",VTVCab9 HD - Info TV
+http://192.168.1.1:8088/rtp/232.84.2.191:10930
+#EXTINF:-1 tvg-id="vtvcab10hd" tvg-name="ON Cine" tvg-chno="25",ON Cine
+http://192.168.1.1:8088/rtp/232.84.1.26:8130
+#EXTINF:-1 tvg-id="vtvcab12hd" tvg-name="VTVCab12 HD - Style TV" tvg-chno="26",VTVCab12 HD - Style TV
+http://192.168.1.1:8088/rtp/232.84.1.244:9438
+#EXTINF:-1 tvg-id="vtvcab15hd" tvg-name="VTVCab15 HD" tvg-chno="27",VTVCab15 HD
+http://192.168.1.1:8088/rtp/232.84.2.192:10936
+#EXTINF:-1 tvg-id="vtvcab17hd" tvg-name="VTVCab17 HD - Yeah1 TV" tvg-chno="28",VTVCab17 HD - Yeah1 TV
+http://192.168.1.1:8088/rtp/232.84.1.217:9276
+#EXTINF:-1 tvg-id="vtvcab18hd" tvg-name="ON Sports News" tvg-chno="29",ON Sports News
+http://192.168.1.1:8088/rtp/232.84.2.193:10942
+#EXTINF:-1 tvg-id="vtvcab19hd" tvg-name="VTVCab19 HD - Vie DRAMAS" tvg-chno="30",VTVCab19 HD - Vie DRAMAS
+http://192.168.1.1:8088/rtp/232.84.1.169:8988
+#EXTINF:-1 tvg-id="vtvcab20hd" tvg-name="VTVCab20 HD - V Family" tvg-chno="31",VTVCab20 HD - V Family
+http://192.168.1.1:8088/rtp/232.84.1.245:10344
+#EXTINF:-1 tvg-id="mtvhd" tvg-name="MTV HD" tvg-chno="32",MTV HD
+http://192.168.1.1:8088/rtp/232.84.3.107:10834
+#EXTINF:-1 tvg-id="htvccanhachd" tvg-name="HTVC Ca Nhạc HD" tvg-chno="33",HTVC Ca Nhạc HD
+http://192.168.1.1:8088/rtp/232.84.1.126:8730
+#EXTINF:-1 tvg-id="htvcdulichhd" tvg-name="HTVC Du Lịch HD" tvg-chno="34",HTVC Du Lịch HD
+http://192.168.1.1:8088/rtp/232.84.1.221:9300
+#EXTINF:-1 tvg-id="htvcgiadinhhd" tvg-name="HTVC Gia Đình HD" tvg-chno="35",HTVC Gia Đình HD
+http://192.168.1.1:8088/rtp/232.84.1.170:8994
+#EXTINF:-1 tvg-id="htvcphimhd" tvg-name="HTVC Phim HD" tvg-chno="36",HTVC Phim HD
+http://192.168.1.1:8088/rtp/232.84.3.118:9594
+#EXTINF:-1 tvg-id="htvcphunuhd" tvg-name="HTVC Phụ Nữ HD" tvg-chno="37",HTVC Phụ Nữ HD
+http://192.168.1.1:8088/rtp/232.84.1.127:8736
+#EXTINF:-1 tvg-id="htvcthuanviethd" tvg-name="HTVC Thuần Việt HD" tvg-chno="38",HTVC Thuần Việt HD
+http://192.168.1.1:8088/rtp/232.84.2.134:9600
+#EXTINF:-1 tvg-id="vtc1hd" tvg-name="VTC1 HD" tvg-chno="39",VTC1 HD
+http://192.168.1.1:8088/rtp/232.84.3.102:10846
+#EXTINF:-1 tvg-id="vtc2" tvg-name="VTC2" tvg-chno="40",VTC2
+http://192.168.1.1:8088/rtp/232.84.1.57:8322
+#EXTINF:-1 tvg-id="vtc3hd" tvg-name="VTC3 HD" tvg-chno="41",VTC3 HD
+http://192.168.1.1:8088/rtp/232.84.1.81:8460
+#EXTINF:-1 tvg-id="vtc4hd" tvg-name="VTC4 HD" tvg-chno="42",VTC4 HD
+http://192.168.1.1:8088/rtp/232.84.3.147:10714
+#EXTINF:-1 tvg-id="vtc5hd" tvg-name="VTC5 HD" tvg-chno="43",VTC5 HD
+http://192.168.1.1:8088/rtp/232.84.3.136:10720
+#EXTINF:-1 tvg-id="vtc6hd" tvg-name="VTC6 HD" tvg-chno="44",VTC6 HD
+http://192.168.1.1:8088/rtp/232.84.1.58:8328
+#EXTINF:-1 tvg-id="vtc7hd" tvg-name="VTC7 HD - Today TV" tvg-chno="45",VTC7 HD - Today TV
+http://192.168.1.1:8088/rtp/232.84.3.120:10726
+#EXTINF:-1 tvg-id="vtc8" tvg-name="VTC8" tvg-chno="46",VTC8
+http://192.168.1.1:8088/rtp/232.84.2.39:10642
+#EXTINF:-1 tvg-id="vtc9hd" tvg-name="VTC9 HD" tvg-chno="47",VTC9 HD
+http://192.168.1.1:8088/rtp/232.84.3.141:10732
+#EXTINF:-1 tvg-id="vtc10" tvg-name="VTC10" tvg-chno="48",VTC10
+http://192.168.1.1:8088/rtp/232.84.1.214:9258
+#EXTINF:-1 tvg-id="vtc11" tvg-name="VTC11 - Kids &amp" tvg-chno="49",VTC11 - Kids &amp
+http://192.168.1.1:8088/rtp/232.84.1.61:8340
+#EXTINF:-1 tvg-id="vtc13hd" tvg-name="VTC13 HD" tvg-chno="50",VTC13 HD
+http://192.168.1.1:8088/rtp/232.84.1.74:8418
+#EXTINF:-1 tvg-id="vtc14hd" tvg-name="VTC14 HD" tvg-chno="51",VTC14 HD
+http://192.168.1.1:8088/rtp/232.84.1.216:9270
+#EXTINF:-1 tvg-id="babytvhd" tvg-name="BabyTV HD" tvg-chno="52",BabyTV HD
+http://192.168.1.1:8088/rtp/232.84.3.128:10624
+#EXTINF:-1 tvg-id="bbcworldnews" tvg-name="BBC World News" tvg-chno="53",BBC World News
+http://192.168.1.1:8088/rtp/232.84.2.239:10452
+#EXTINF:-1 tvg-id="cartoonhd" tvg-name="Cartoon Network HD" tvg-chno="54",Cartoon Network HD
+http://192.168.1.1:8088/rtp/232.84.2.144:10684
+#EXTINF:-1 tvg-id="cinemaxhd" tvg-name="cinemaxhd" tvg-chno="55",Cinemax HD
+http://192.168.1.1:8088/rtp/232.84.3.117:10654
+#EXTINF:-1 tvg-id="hbohd" tvg-name="hbohd" tvg-chno="56",HBO HD
+http://192.168.1.1:8088/rtp/232.84.3.101:10648
+#EXTINF:-1 tvg-id="boxhits" tvg-name="boxhits" tvg-chno="57",Box Hits HD
+http://192.168.1.1:8088/rtp/232.84.1.77:8436
+#EXTINF:-1 tvg-id="warnertvhd" tvg-name="Warner TV HD" tvg-chno="58",Warner TV HD
+http://192.168.1.1:8088/rtp/232.84.3.114:10516
+#EXTINF:-1 tvg-id="Red By HBO" tvg-name="Red_By_HBO" tvg-chno="59",Red By HBO HD
+http://192.168.1.1:8088/rtp/232.84.3.103:10840
+#EXTINF:-1 tvg-id="discoveryhd" tvg-name="Discovery Channel HD" tvg-chno="60",Discovery Channel HD
+http://192.168.1.1:8088/rtp/232.84.3.132:10528
+#EXTINF:-1 tvg-id="fashionhd" tvg-name="Fashion TV HD" tvg-chno="61",Fashion TV HD
+http://192.168.1.1:8088/rtp/232.84.3.149:10522
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney_Channel" tvg-chno="62",Disney HD
+http://192.168.1.1:8088/rtp/232.84.2.143:10678
+#EXTINF:-1 tvg-id="Disney Junior" tvg-name="Disney_Junior" tvg-chno="63",Disney junior HD
+http://192.168.1.1:8088/rtp/232.84.3.200:11122
+#EXTINF:-1 tvg-id="ngwhd" tvg-name="Nat Geo Wild HD" tvg-chno="64",Nat Geo Wild HD
+http://192.168.1.1:8088/rtp/232.84.2.123:8454
+#EXTINF:-1 tvg-id="ngchd" tvg-name="National Geographic HD" tvg-chno="65",National Geographic HD
+http://192.168.1.1:8088/rtp/232.84.1.1:7980
+#EXTINF:-1 tvg-id="nhkworldhd" tvg-name="NHK_World" tvg-chno="66",NHK WORLD JAPAN HD
+http://192.168.1.1:8088/rtp/232.84.1.72:8406
+#EXTINF:-1 tvg-id="anvienhd" tvg-name="An Viên HD" tvg-chno="67",An Viên HD
+http://192.168.1.1:8088/rtp/232.84.3.199:11116
+#EXTINF:-1 tvg-id="bacgiang" tvg-name="Bắc Giang" tvg-chno="68",Bắc Giang
+http://192.168.1.1:8088/rtp/232.84.2.89:8754
+#EXTINF:-1 tvg-id="bacninh" tvg-name="Bắc Ninh" tvg-chno="69",Bắc Ninh
+http://192.168.1.1:8088/rtp/232.84.2.245:10506
+#EXTINF:-1 tvg-id="hanoi1" tvg-name="Hà Nội 1" tvg-chno="70",Hà Nội 1 HD
+http://192.168.1.1:8088/rtp/232.84.3.143:10738
+#EXTINF:-1 tvg-id="hanoi1" tvg-name="hanoi1" tvg-chno="71",Hà Nội 2 HD
+http://192.168.1.1:8088/rtp/232.84.3.137:10744
+#EXTINF:-1 tvg-id="haiphong" tvg-name="Hải Phòng" tvg-chno="72",Hải Phòng HD
+http://192.168.1.1:8088/rtp/232.84.3.142:10780
+#EXTINF:-1 tvg-id="quangninh1" tvg-name="Quảng Ninh 1" tvg-chno="73",Quảng Ninh 1 HD
+http://192.168.1.1:8088/rtp/232.84.1.248:10978
+#EXTINF:-1 tvg-id="quangninh3" tvg-name="Quảng Ninh 3" tvg-chno="74",Quảng Ninh 3 HD
+http://192.168.1.1:8088/rtp/232.84.1.249:10984
+#EXTINF:-1 tvg-id="thainguyen" tvg-name="Thái Nguyên" tvg-chno="75",Thái Nguyên HD
+http://192.168.1.1:8088/rtp/232.84.3.146:10774
+#EXTINF:-1 tvg-id="vinhlong1hd" tvg-name="THVL1 HD" tvg-chno="76",Vĩnh Long 1 HD
+http://192.168.1.1:8088/rtp/232.84.3.152:10882
+#EXTINF:-1 tvg-id="vinhlong2hd" tvg-name="THVL2 HD" tvg-chno="77",Vĩnh Long 2 HD
+http://192.168.1.1:8088/rtp/232.84.3.164:10888
+#EXTINF:-1 tvg-id="vinhlong3hd" tvg-name="THVL3 HD" tvg-chno="78",Vĩnh Long 3 HD
+http://192.168.1.1:8088/rtp/232.84.3.165:10900
+#EXTINF:-1 tvg-id="antvhd" tvg-name="ANTV HD" tvg-chno="79",ANTV HD
+http://192.168.1.1:8088/rtp/232.84.1.212:9246
+#EXTINF:-1 tvg-id="qpvnhd" tvg-name="QPVN HD" tvg-chno="80",QPVN HD
+http://192.168.1.1:8088/rtp/232.84.3.127:10816
+#EXTINF:-1 tvg-id="ttxvnhd" tvg-name="TTXVN HD" tvg-chno="81",TTXVN HD
+http://192.168.1.1:8088/rtp/232.84.3.125:10434
+#EXTINF:-1 tvg-id="nhandan" tvg-name="Nhân Dân" tvg-chno="82",Nhân dân HD
+http://192.168.1.1:8088/rtp/232.84.3.124:10822
+#EXTINF:-1 tvg-id="quochoi" tvg-name="Quốc Hội" tvg-chno="83",Quốc hội HD
+http://192.168.1.1:8088/rtp/232.84.1.234:10290
